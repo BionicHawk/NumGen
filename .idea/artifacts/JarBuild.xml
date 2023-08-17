@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JarBuild">
+    <output-path>$PROJECT_DIR$/out/artifacts/JarBuild</output-path>
+    <root id="archive" name="JarBuild.jar" />
+  </artifact>
+</component>

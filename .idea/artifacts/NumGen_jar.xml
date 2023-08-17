@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NumGen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NumGen_jar</output-path>
+    <root id="archive" name="NumGen.jar">
+      <element id="module-output" name="NumGen" />
+    </root>
+  </artifact>
+</component>
